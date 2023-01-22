@@ -7,7 +7,7 @@ _____
 - it's a userfrindly language that focuses on efficiency, time saving, software development and deployment, enabling programmers to run data analysis and machine learning in production environments.
 - created by Giudo Van Rossum
 
-##### In this class i discovered the basics such as:
+##### In this class I discovered the basics such as:
 - using Google Collab as platform to practice python and save notebooks on github as well as share with link
 - creating variables
 - using basic logical and arithematic operators
